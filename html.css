@@ -1,0 +1,101 @@
+header{
+    display:flex;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 65px;
+    background-color: #343a40 !important;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.logo{
+    width: 193px;
+    height: 55px;
+}
+.nav{
+    span{
+        
+        padding: 8px 24px;
+        color: white;
+    }
+}
+header nav span:hover{
+    color: aquamarine;
+}
+.yuva{
+    width: 100%;
+}
+.leeya{
+    display: flex;
+    justify-content: center;
+}
+section figure 
+{
+    border: 1px solid grey;
+    margin: 20px 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+
+}
+section figure img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    border: 1px solid grey;
+    background-color: #343a40 !important;
+}
+footer div{
+    flex: 1;
+}
+footer h2{
+    color: white;
+    padding: 10px;
+}
+footer li, a{
+    color: white;
+    padding: 10px;
+}
+footer div p{
+    color: white;
+}
+footer div a{
+    padding: 20px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+footer div,li a:hover{
+    color: aquamarine;
+}
+.footer p,.footer a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
